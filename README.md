@@ -12,7 +12,7 @@ cd /usr/share/nginx/html/v2board/public/
 下拉首页文件：
 
 ```shell
-git clone https://github.com/GZ1903/v2board-theme-LuFly.git
+git clone https://github.com/1kst/v2board-theme-LuFly.git
 mv v2board-theme-LuFly/* .
 ```
 
